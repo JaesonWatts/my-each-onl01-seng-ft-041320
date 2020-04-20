@@ -1,3 +1,3 @@
-def my_each(collection)
-  
+def my_each(array)
+  while i
 end
